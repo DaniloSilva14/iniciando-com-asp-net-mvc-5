@@ -1,0 +1,62 @@
+Contexto Historico
+
+    # images / image-1.png
+
+
+Pipeline
+
+    # images / image-2.png
+
+
+ASP.NET MVC 5 vs ASP.NET CORE
+
+    # images / image-2.png
+    # images / image-3.png
+
+
+Pra que usar o ASP.NET
+
+    # images / image-4.png
+
+
+Padrão MVC
+
+    # images / image-5.png
+
+
+O basico da WEB
+
+    # images / image-6.png
+    # images / image-7.png
+    # images / image-8.png
+
+
+Action Result
+
+    # images / image-9.png
+
+
+Rotas
+
+    # images / image-10.png
+
+
+Model e Data Annotations
+
+
+-----
+
+Razor
+
+    # images / image-11.png
+
+
+HtmlHelpers
+
+
+Entity Framework
+
+
+------------
+
+Testes no MVC 5
