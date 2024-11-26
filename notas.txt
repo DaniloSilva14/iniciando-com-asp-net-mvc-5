@@ -60,3 +60,17 @@ Entity Framework
 ------------
 
 Testes no MVC 5
+
+
+------------
+
+Scaffolding
+
+    # images / image-12.png
+
+
+Action Filters
+
+    # images / image-13.png
+
+
